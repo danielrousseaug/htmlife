@@ -19,7 +19,7 @@ Opening: https://openingceremony.com
 Opening: https://olbrick-darmstadt.de/seite
 Opening: https://www.projectsolaruk.com/
 ```
-![alt text]https://i.imgur.com/4wioAVw.png
+![alt text](https://i.imgur.com/4wioAVw.png)
 ## Contributing
 Pull requests are welcome
 
