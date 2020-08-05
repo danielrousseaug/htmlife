@@ -1,5 +1,5 @@
 # htmlife
-htmlife is a lightweight python script that helps you get website inspiration for your front-end design needs. It works by webscrapping awwwards.com (a good ui website gallery) and selecting any number of pages you input at random, opening those pages on your default browser.
+htmlife is a lightweight python script that helps you get website inspiration for your front-end design needs. It works by webscrapping awwwards.com (a good ui website gallery) and selecting pages at random, the number of which you can choose, opening those pages on your default browser.
 
 ## Usage
 ```
